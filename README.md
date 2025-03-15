@@ -17,7 +17,7 @@ Criar uma **playlist personalizada** no Spotify com base nas músicas curtidas, 
 
 ## Como Executar
 ### Pré-requisitos
-- Conta de desenvolvedor no [Spotify For Developers]([https://developer.spotify.com/dashboard](https://developer.spotify.com/)) (para obter `CLIENT_ID` e `CLIENT_SECRET`).
+- Conta de desenvolvedor no Para acessar a API do Spotify, visite o [Spotify for Developers](https://developer.spotify.com/). (para obter `CLIENT_ID` e `CLIENT_SECRET`).
 - Python 3.x e bibliotecas:
   ```bash
   pip install spotipy pandas sqlite3
