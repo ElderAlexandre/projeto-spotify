@@ -172,3 +172,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# =============================================
+# Projeto Spotify - Regras Personalizadas
+# =============================================
+
+# Arquivos sensíveis/ambiente
+.env
+
+# Pastas de cache e dados temporários
+/cache/
+/spotipy_cache/
+
+# Banco de dados local
+spotify_analysis.db
+
+# Arquivos gerados pelo código (se não forem essenciais)
+musicas_curtidas.csv
+Simple.pdf
